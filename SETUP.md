@@ -20,6 +20,8 @@
   ```
   
 - [powerlevel9k](https://github.com/bhilburn/powerlevel9k#installation)
+- [zsh config](https://gist.github.com/wenqili/00ad5a338dee9ce408d98caea9dfcc33)
+- [zsh Cobalt2 theme](https://github.com/wesbos/Cobalt2-iterm)
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
   ```sh
