@@ -62,22 +62,15 @@
 
   
 ## Software
-### Native open source/free
-- Spectacle
+### Through homebrew
+- Spectacle, alfred, hyperswitch, postman, slack
   ```sh
-  brew cask install spectacle
+  brew cask install spectacle alfred hyperswitch postman slack
   ```
-- [Slack](https://slack.com/downloads/mac)
 
 - [Notion](https://www.notion.so/desktop)
 
 - Github Desktop
-
-### commercial 
-- Alfred
-  ```sh
-  brew cask install alfred
-  ```
   
 ### apple store
 - [Eudict](https://www.eudic.net/eudic/mac_dictionary.aspx)
