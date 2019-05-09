@@ -1,4 +1,6 @@
-## Front End Dev Env/Tools
+# Front End Dev Env/Tools
+
+## Basic
 
 - **Command Line Tools (CLT) for Xcode**: Prerequisites for homebrew
 
@@ -54,6 +56,7 @@
   ```
 
   vscode theme: [cobalt2](https://github.com/wesbos/cobalt2-vscode)
+
   Extensions:
 
   - Material Icon Theme
@@ -93,40 +96,40 @@
   npm install -g lite-server eslint tldr
   ```
 
-## Software
+## Other software
 
-### Through homebrew
+Through homebrew:
 
 ```sh
 brew cask install dash postman alfred hyperswitch slack
 ```
 
-### Through app store / download releases
+Through app store / download releases:
 
 [Eudict](https://www.eudic.net/eudic/mac_dictionary.aspx), [Popclip](https://pilotmoon.com/popclip/), [Magnet](https://magnet.crowdcafe.com/), [Notion](https://www.notion.so/desktop), [Github Desktop](https://desktop.github.com/)
 
-### Tools categories and workflow
+## My Tools Selection
 
-#### Mac production tools
+### Productivity
 
 - **alfred** + **hyperswitch**: quick laucher, set double command key to launch.
 - **popclip** + **Eudict**: reading and referencing
 - **Lastpass**
 
-#### Knowledge base
+### Knowledge base
 
 - **Notion**: Note software
 - **Are.na**: bookmarks, inspirations, research tool
 
-#### Web dev tools
+### Web dev tools
 
-- **postman**
+- **Postman**
 - **Dash**
 
-#### Team
+### Team
 
-- **slack**
-- **spectrum**: Trying
+- **Slack**
+- **Spectrum**: Trying
 
 #### Design
 
