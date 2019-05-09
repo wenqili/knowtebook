@@ -22,7 +22,7 @@
   sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
   ```
 
-  Customize Terminal and zsh (After install **NVM+node**):
+  Customize Terminal and zsh after install NVM+node:
 
   - Iterm2 Theme: [Cobalt2 theme](https://github.com/wesbos/Cobalt2-iterm), to change the handle, go to `~/.oh-my-zsh/themes/Cobalt2.theme`, or [powerlevel9k themes](https://github.com/bhilburn/powerlevel9k#installation)
   - Iterm2 Fonts: [FiraCode(Nerd-fonts)](https://github.com/ryanoasis/nerd-fonts/releases) for Non-ASCII, [Operator Mono(Lig)](https://github.com/kiliman/operator-mono-lig) for ASCII
@@ -30,7 +30,7 @@
   - [colorls](https://github.com/athityakumar/colorls): add icons to terminal
   - [zsh config](https://gist.github.com/wenqili/00ad5a338dee9ce408d98caea9dfcc33)
 
-- [NVM](https://github.com/nvm-sh/nvm) + node
+- **[NVM](https://github.com/nvm-sh/nvm) + node**
 
   The script clones the nvm repository to ~/.nvm and adds the source line to your profile (~/.bash_profile, ~/.zshrc, ~/.profile, or ~/.bashrc).
 
@@ -47,74 +47,88 @@
   nvm install stable
   ```
 
-- **[Visual Studio Code](https://code.visualstudio.com/download)**: code editor solution
+- **[Visual Studio Code](https://code.visualstudio.com/download)**
 
   ```sh
   brew cask install visual-studio-code
   ```
 
-  Customize:
+  vscode theme: [cobalt2](https://github.com/wesbos/cobalt2-vscode)
+  Extensions:
 
-  - vscode theme:
+  - Material Icon Theme
+  - FontSize Shortcuts
+  - Auto Close Tag
+  - Auto Rename Tag
+  - Code Spell Check
+  - ESLint
+  - Prettier
+  - IntelliSense for CSS class names in HTML
+  - Npm Intellisense
+  - quokkajs
 
-* [Chrome](https://www.google.com/chrome/)
+- **[Chrome](https://www.google.com/chrome/)**, **[Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)**
 
-* [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+  extentions:
 
-* Make a `workspace` folder in `user` directory
+  - React Developer Tools
+  - Wappalyzer
+  - Web Developer
+  - Notion clip
+  - uBlock Origin
+  - Google Analytics Opt-out Add-on
+  - LastPass
+  - Grammarly
+  - OneTab
+
+- Make a `workspace` folder in `user` directory
 
   ```sh
   mkdir ~/workspace
   ```
 
-* global packages
+* NPM global packages
 
-  ```
+  ```sh
   npm install -g lite-server eslint tldr
   ```
-
-* [FiraCode](https://github.com/tonsky/FiraCode), [M+](http://mplus-fonts.osdn.jp/about-en.html)
 
 ## Software
 
 ### Through homebrew
 
-- Spectacle, alfred, hyperswitch, postman, slack
+```sh
+brew cask install dash postman alfred hyperswitch slack
+```
 
-  ```sh
-  brew cask install spectacle alfred hyperswitch postman slack
-  ```
+### Through app store / download releases
 
-- [Notion](https://www.notion.so/desktop)
+[Eudict](https://www.eudic.net/eudic/mac_dictionary.aspx), [Popclip](https://pilotmoon.com/popclip/), [Magnet](https://magnet.crowdcafe.com/), [Notion](https://www.notion.so/desktop), [Github Desktop](https://desktop.github.com/)
 
-- Github Desktop
+### Tools categories and workflow
 
-### apple store
+#### Mac production tools
 
-- [Eudict](https://www.eudic.net/eudic/mac_dictionary.aspx)
-- [popclip](https://pilotmoon.com/popclip/)
+- **alfred** + **hyperswitch**: quick laucher, set double command key to launch.
+- **popclip** + **Eudict**: reading and referencing
+- **Lastpass**
 
-## Chrome extension
+#### Knowledge base
 
-- React Developer Tools
-- Notion clip
-- Wappalyzer
-- Web Developer
-- uBlock Origin
-- Google Analytics Opt-out Add-on
-- LastPass
-- Grammarly
-- OneTab
+- **Notion**: Note software
+- **Are.na**: bookmarks, inspirations, research tool
 
-## vscode extension
+#### Web dev tools
 
-- [Cobalt 2 Theme Official](https://github.com/wesbos/cobalt2-vscode)
-- Material Icon Theme
-- FontSize Shortcuts
-- Auto Close Tag
-- Auto Rename Tag
-- Code Spell Check
-- ESLint
-- Prettier
-- IntelliSense for CSS class names in HTML
-- Npm Intellisense
+- **postman**
+- **Dash**
+
+#### Team
+
+- **slack**
+- **spectrum**: Trying
+
+#### Design
+
+- **Milanote**: single project moodboard
+- **Figma**
