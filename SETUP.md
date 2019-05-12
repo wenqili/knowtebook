@@ -14,10 +14,10 @@
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
   ```
 
-* **[iTerm2](https://www.iterm2.com/)** + **zsh** + **[oh my zsh](https://github.com/robbyrussell/oh-my-zsh)**(zsh plugin manager): Terminal solution
+- **[iTerm 2](https://www.iterm2.com/)** + **zsh** + **[oh my zsh](https://github.com/robbyrussell/oh-my-zsh)**(zsh plugin manager): Terminal solution
 
   ```sh
-  brew cask install iterm2
+  brew cask install iTerm2
   ```
 
   ```sh
@@ -26,8 +26,8 @@
 
   Customize Terminal and zsh after install NVM+node:
 
-  - Iterm2 Theme: [Cobalt2 theme](https://github.com/wesbos/Cobalt2-iterm), to change the handle, go to `~/.oh-my-zsh/themes/Cobalt2.theme`, or [powerlevel9k themes](https://github.com/bhilburn/powerlevel9k#installation)
-  - Iterm2 Fonts: [FiraCode(Nerd-fonts)](https://github.com/ryanoasis/nerd-fonts/releases) for Non-ASCII, [Operator Mono(Lig)](https://github.com/kiliman/operator-mono-lig) for ASCII
+  - iTerm2 Theme: [Cobalt2 theme](https://github.com/wesbos/Cobalt2-iterm), to change the handle, go to `~/.oh-my-zsh/themes/Cobalt2.theme`, or [powerlevel9k themes](https://github.com/bhilburn/powerlevel9k#installation)
+  - iTerm2 Fonts: [FiraCode(Nerd-fonts)](https://github.com/ryanoasis/nerd-fonts/releases) for Non-ASCII, [Operator Mono(Lig)](https://github.com/kiliman/operator-mono-lig) for ASCII
   - zsh Plugins: [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting), [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions), sudo, git
   - [colorls](https://github.com/athityakumar/colorls): add icons to terminal
   - [zsh config](https://gist.github.com/wenqili/00ad5a338dee9ce408d98caea9dfcc33)
@@ -66,13 +66,13 @@
   - Code Spell Check
   - ESLint
   - Prettier
-  - IntelliSense for CSS class names in HTML
+  - Intellisense for CSS class names in HTML
   - Npm Intellisense
   - quokkajs
 
 - **[Chrome](https://www.google.com/chrome/)**, **[Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)**
 
-  extentions:
+  extensions:
 
   - React Developer Tools
   - Wappalyzer
@@ -81,7 +81,7 @@
   - uBlock Origin
   - Google Analytics Opt-out Add-on
   - LastPass
-  - Grammarly
+  - grammarly
   - OneTab
 
 - Make a `workspace` folder in `user` directory
@@ -90,7 +90,7 @@
   mkdir ~/workspace
   ```
 
-* NPM global packages
+- NPM global packages
 
   ```sh
   npm install -g lite-server eslint tldr
@@ -101,20 +101,20 @@
 Through homebrew:
 
 ```sh
-brew cask install dash postman alfred hyperswitch slack
+brew cask install dash postman alfred HyperSwitch slack
 ```
 
 Through app store / download releases:
 
-[Eudict](https://www.eudic.net/eudic/mac_dictionary.aspx), [Popclip](https://pilotmoon.com/popclip/), [Magnet](https://magnet.crowdcafe.com/), [Notion](https://www.notion.so/desktop), [Github Desktop](https://desktop.github.com/)
+[EuDic](https://www.eudic.net/eudic/mac_dictionary.aspx), [PopClip](https://pilotmoon.com/popclip/), [Magnet](https://magnet.crowdcafe.com/), [Notion](https://www.notion.so/desktop), [Github Desktop](https://desktop.github.com/)
 
 ## My Tools Selection
 
 ### Productivity
 
-- **alfred** + **hyperswitch**: quick laucher, set double command key to launch.
-- **popclip** + **Eudict**: reading and referencing
-- **Lastpass**
+- **alfred** + **HyperSwitch**: quick launcher, set double command key to launch.
+- **PopClip** + **EuDic**: reading and referencing
+- **LastPass**
 
 ### Knowledge base
 
@@ -133,5 +133,5 @@ Through app store / download releases:
 
 #### Design
 
-- **Milanote**: single project moodboard
+- **Milanote**: single project mood board
 - **Figma**
