@@ -1,4 +1,4 @@
-# Front End Develop environment set up
+# Front End Develop environment setup
 
 ## Basic
 
