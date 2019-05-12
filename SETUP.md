@@ -101,7 +101,7 @@
 Through homebrew:
 
 ```sh
-brew cask install dash postman alfred HyperSwitch slack
+brew cask install dash postman alfred HyperSwitch slack lepton
 ```
 
 Through app store / download releases:
@@ -123,6 +123,7 @@ Through app store / download releases:
 
 ### Web dev tools
 
+- **Lepton**: organize snippet on gist
 - **Postman**
 - **Dash**
 
