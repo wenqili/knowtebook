@@ -1,6 +1,6 @@
 # Front End Develop environment setup
 
-## Basic
+## Basic Setup
 
 - **Command Line Tools (CLT) for Xcode**: Prerequisites for homebrew
 
@@ -101,7 +101,7 @@
 Through homebrew:
 
 ```sh
-brew cask install dash postman alfred HyperSwitch slack lepton
+brew cask install dash postman alfred HyperSwitch slack lepton nightowl
 ```
 
 Through app store / download releases:
@@ -115,6 +115,7 @@ Through app store / download releases:
 - **alfred** + **HyperSwitch**: quick launcher, set double command key to launch.
 - **PopClip** + **EuDic**: reading and referencing
 - **LastPass**
+- **nightowl**: force light theme
 
 ### Knowledge base
 
@@ -126,6 +127,8 @@ Through app store / download releases:
 - **Lepton**: organize snippet on gist
 - **Postman**
 - **Dash**
+- **Transmit 5**: FTP tool
+- **Folk**: Git tool
 
 ### Team
 
