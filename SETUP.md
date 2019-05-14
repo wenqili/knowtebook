@@ -128,7 +128,7 @@ Through app store / download releases:
 - **Postman**
 - **Dash**
 - **Transmit 5**: FTP tool
-- **Folk**: Git tool
+- **Folk**: Git GUI tool
 
 ### Team
 
