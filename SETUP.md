@@ -1,4 +1,4 @@
-# Develop Dnvironment
+# Develop Environment
 
 ## Basic Setup
 
@@ -105,13 +105,13 @@ mkdir ~/workspace
 
 ## Other software
 
-### Through homebrew:
+### Through homebrew
 
 ```sh
 brew cask install dash postman alfred HyperSwitch slack lepton nightowl
 ```
 
-### Through app store / download releases:
+### Through app store / download releases
 
 - [EuDic](https://www.eudic.net/eudic/mac_dictionary.aspx)
 - [PopClip](https://pilotmoon.com/popclip/)
@@ -155,3 +155,12 @@ brew cask install dash postman alfred HyperSwitch slack lepton nightowl
 - **Sketch**: _invoice_
 - **photoshop**
 - **illustrator**
+
+## work & Personal setup
+
+- **Safari**
+  - management browser
+  - Trello, email, personal github
+- **Chrome**
+  - Dev env
+  - ww github
