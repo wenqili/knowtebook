@@ -121,21 +121,43 @@ brew cask install dash postman alfred HyperSwitch slack lepton nightowl
 
 ## My Tools Selection
 
-### Desktop combo
+### Utilities
 
-- **Alfred 3** + **HyperSwitch**: quick launcher, set double command key to launch.
-- **PopClip** + **EuDic**: reading and referencing
-- **LastPass**
-- **nightowl**: force light theme
-- **Trello**: Management
+Utilities are limited to menu applications / or can be hide from the dock
 
-### Knowledge base
+- **Dozer**: Open source alternative to bartender
+- **Alfred 3**: _iCloud sync_, quick launcher
+- **Contexts**: Application switcher
+- **PopClip**: _EuDic plugin, Google Translate plugin, Microsoft translate plugin_, reading and referencing
+- **Magnet**: window management
+- **NightOwl**: System theme management
+- **One Switch**: Airpods connection, night shift, hide desktop icon
+- **Pretzel**: Alternative to CheatSheet
+- **LastPass/1password**: password management
+- **Dash**: API docs, text expender
+- **CleanMyMac X**
+- **Eudic**
+- **iStats**
+- **Bitbar**
+- **Menu World Clock**
+- **Pock**: TouchBar deck
 
-- **Dash**: API docs
+### Productivity
+
+- **Trello**: Task Management
+- **Spark**: Multi accounts email and calendar client
+
+### Database
+
+- **Google file stream**: alternative to google drive
+- **DOVENthink**
+- **Notion**
+- **Are.na(web app)**: bookmarks, inspirations, research tool
+
+### Codebase
+
 - **gist** + **lepton**: code snippet, coding notes
 - **Codepen(web app)**: front end code snippet
-- **Notion(web app)**: Note software
-- **Are.na(web app)**: bookmarks, inspirations, research tool
 
 ### Web dev tools
 
@@ -153,7 +175,7 @@ brew cask install dash postman alfred HyperSwitch slack lepton nightowl
 - **Milanote(web app)**: single project mood board
 - **Figma(web app)**
 - **Sketch**: _invoice_
-- **photoshop**
+- **Photoshop**
 - **illustrator**
 
 ## work & Personal setup
@@ -164,3 +186,5 @@ brew cask install dash postman alfred HyperSwitch slack lepton nightowl
 - **Chrome**
   - Dev env
   - ww github
+  - `stylus`: inject css as guidelines
+  - Scancss
